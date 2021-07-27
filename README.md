@@ -1,6 +1,6 @@
-# Unit 10—A Yen for the Future
+A Yen for the Future
 
-![Yen Photo](Images/unit-10-readme-photo.png)
+Click Homework folder to see starter code that will show Time Series Forecasting & Linear Regression models.
 
 ## Background
 
